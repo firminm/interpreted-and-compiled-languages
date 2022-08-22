@@ -1,6 +1,6 @@
-## Project Made for Computer Languages Course:
+# Project Made for Computer Languages Course:
 
 
-# interpreter.ml - Interprets into stack-based language
+## interpreter.ml - Interprets into stack-based language
 
-# compiler.ml - compiles into same stack-based lanuage
+## compiler.ml - compiles into same stack-based lanuage
